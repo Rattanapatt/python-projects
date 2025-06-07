@@ -1,7 +1,7 @@
-# Python-Projects
+# Software-Projects
 
 <p style="color:dimgray">
-    This is a collection of my Python projects.
+    This is a collection of my Software projects.
 </p>
 
 ## Projects
